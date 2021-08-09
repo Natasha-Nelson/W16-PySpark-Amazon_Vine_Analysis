@@ -28,7 +28,7 @@ In this project, I worked with AWS RDS, AWS S3, PgAdmin/SQL, and PySpark/Google 
 ![Vine_DF](https://user-images.githubusercontent.com/81983110/128654613-43514566-e6be-4dce-97a8-d34dd03163f7.png)
 
 ## Summary:
-Based on my results, there is not a positivity bias for reviews int he Vine program. We noticed that the percentage of 5 star Vine reviews is lower than the percentage of unpaid reviews. However, it is also worth noting that the percentage of Vine reviews within the 5 star group is higher than than the non-5 star group (1.08% to 0.90%). Further analysis could be done to:
+Based on my results, there is no positivity bias for reviews in the Vine program. We noticed that the percentage of 5 star Vine reviews is lower than the percentage of unpaid reviews. However, it is also worth noting that the percentage of Vine reviews within the 5 star group is higher than than the non-5 star group (1.08% to 0.90%). Further analysis could be done to:
 1. Interpret the statistical significance of our results
 2. Breakdown the percentage of reviews for other star-counts (eg. 4 stars or 3 stars)
 3. Compare these results across other Vine datasets
